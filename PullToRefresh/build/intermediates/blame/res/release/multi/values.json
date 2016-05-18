@@ -1,0 +1,391 @@
+[
+    {
+        "outputFile": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 53,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 53,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 53,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 68,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 68,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 50,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 50,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 62,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 62,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 51,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 51,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endColumn": 59,
+                    "endOffset": 2325
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 59,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2330,
+                    "endColumn": 65,
+                    "endOffset": 2391
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1942,
+                        "endColumn": 65,
+                        "endOffset": 2003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2396,
+                    "endColumn": 54,
+                    "endOffset": 2446
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2008,
+                        "endColumn": 54,
+                        "endOffset": 2058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2451,
+                    "endColumn": 40,
+                    "endOffset": 2487
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 41,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2492,
+                    "endColumn": 41,
+                    "endOffset": 2529
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 750,
+                        "endColumn": 42,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2534,
+                    "endColumn": 37,
+                    "endOffset": 2567
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 38,
+                        "endOffset": 745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2572,
+                    "endColumn": 56,
+                    "endOffset": 2624
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2064,
+                        "endColumn": 56,
+                        "endOffset": 2116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2629,
+                    "endColumn": 58,
+                    "endOffset": 2683
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2121,
+                        "endColumn": 58,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2688,
+                    "endColumn": 71,
+                    "endOffset": 2755
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 71,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endColumn": 69,
+                    "endOffset": 2825
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 69,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2830,
+                    "endColumn": 77,
+                    "endOffset": 2903
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 77,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2908,
+                    "endColumn": 74,
+                    "endOffset": 2978
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2181,
+                        "endColumn": 74,
+                        "endOffset": 2251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2983,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 3826
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2389,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 3232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3831,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3975
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3238,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 3382
+                    }
+                }
+            }
+        ]
+    }
+]

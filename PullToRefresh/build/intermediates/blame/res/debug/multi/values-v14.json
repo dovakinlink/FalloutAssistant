@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "C:\\link\\work\\workspace\\android\\SkyrimCodeAssistant\\PullToRefresh\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\0.4.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 818
+                    }
+                }
+            }
+        ]
+    }
+]
